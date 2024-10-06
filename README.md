@@ -2,7 +2,9 @@
 This is my first Git Repository.
 <br>
 Author - Mohammed Imran
+<br>
 Oximeter
+<br>
 Oximeter is an instrument which is used to measure the oxygen levels in the body and rate of heart beat.
 - Place the finger on the sensor small beams of light passes through the blood.
 - The MAX30100_PulseOximeter measures oxygen by evaluating changes of light absorption in oxygenated or
